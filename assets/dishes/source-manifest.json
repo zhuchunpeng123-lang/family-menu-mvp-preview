@@ -1,0 +1,16 @@
+[
+  { "file": "hero.jpg", "dish": "家庭厨房 Hero", "sourceUrl": "家庭点菜工具-Codex开发包-StageA-V1/references/initial_assets/hero.jpg", "license": "Provided reference asset from the supplied product package" },
+  { "file": "01_tomato-egg.jpg", "dish": "番茄炒蛋", "sourceUrl": "家庭点菜工具-Codex开发包-StageA-V1/references/initial_assets/dishes/01_tomato-egg.jpg", "license": "Provided reference asset from the supplied product package" },
+  { "file": "02_braised-pork.jpg", "dish": "红烧肉", "sourceUrl": "家庭点菜工具-Codex开发包-StageA-V1/references/initial_assets/dishes/02_braised-pork.jpg", "license": "Provided reference asset from the supplied product package" },
+  { "file": "03_kungpao-chicken.jpg", "dish": "宫保鸡丁", "sourceUrl": "家庭点菜工具-Codex开发包-StageA-V1/references/initial_assets/dishes/03_kungpao-chicken.jpg", "license": "Provided reference asset from the supplied product package" },
+  { "file": "04_steamed-fish.jpg", "dish": "清蒸鲈鱼", "sourceUrl": "家庭点菜工具-Codex开发包-StageA-V1/references/initial_assets/dishes/04_steamed-fish.jpg", "license": "Provided reference asset from the supplied product package" },
+  { "file": "05_hot-sour-potato.jpg", "dish": "酸辣土豆丝", "sourceUrl": "家庭点菜工具-Codex开发包-StageA-V1/references/initial_assets/dishes/05_hot-sour-potato.jpg", "license": "Provided reference asset from the supplied product package" },
+  { "file": "06_garlic-greens.jpg", "dish": "蒜蓉青菜", "sourceUrl": "家庭点菜工具-Codex开发包-StageA-V1/references/initial_assets/dishes/06_garlic-greens.jpg", "license": "Provided reference asset from the supplied product package" },
+  { "file": "07_mapo-tofu.jpg", "dish": "麻婆豆腐", "sourceUrl": "家庭点菜工具-Codex开发包-StageA-V1/references/initial_assets/dishes/07_mapo-tofu.jpg", "license": "Provided reference asset from the supplied product package" },
+  { "file": "08_braised-eggplant.jpg", "dish": "红烧茄子", "sourceUrl": "家庭点菜工具-Codex开发包-StageA-V1/references/initial_assets/dishes/08_braised-eggplant.jpg", "license": "Provided reference asset from the supplied product package" },
+  { "file": "09_wintermelon-rib-soup.jpg", "dish": "冬瓜排骨汤", "sourceUrl": "家庭点菜工具-Codex开发包-StageA-V1/references/initial_assets/dishes/09_wintermelon-rib-soup.jpg", "license": "Provided reference asset from the supplied product package" },
+  { "file": "10_seaweed-egg-soup.jpg", "dish": "紫菜蛋花汤", "sourceUrl": "家庭点菜工具-Codex开发包-StageA-V1/references/initial_assets/dishes/10_seaweed-egg-soup.jpg", "license": "Provided reference asset from the supplied product package" },
+  { "file": "11_egg-fried-rice.jpg", "dish": "蛋炒饭", "sourceUrl": "家庭点菜工具-Codex开发包-StageA-V1/references/initial_assets/dishes/11_egg-fried-rice.jpg", "license": "Provided reference asset from the supplied product package" },
+  { "file": "12_chive-pork-dumplings.jpg", "dish": "韭菜猪肉饺子", "sourceUrl": "家庭点菜工具-Codex开发包-StageA-V1/references/initial_assets/dishes/12_chive-pork-dumplings.jpg", "license": "Provided reference asset from the supplied product package" },
+  { "file": "family-dish-placeholder.svg", "dish": "50 道新家庭菜品的统一占位图", "sourceUrl": "本次 Round2 修正包内生成的本地 SVG 占位资产", "license": "Project-authored local placeholder" }
+]
