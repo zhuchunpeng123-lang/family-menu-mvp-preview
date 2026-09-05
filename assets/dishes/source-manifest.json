@@ -21,13 +21,14 @@
   },
   {
     "dish": "熏肉香干豆腐",
-    "localFile": "assets/dishes/family-dish-placeholder.svg",
-    "sourceUrl": "https://jingyan.baidu.com/article/454316abbc5357b6a6c03a5f.html",
-    "sourceSite": "Exact recipe visual reference (failed fetch; placeholder)",
-    "matchType": "failed_placeholder",
-    "matchedQuery": "熏肉香干豆腐 | 肉炒干豆腐",
-    "reuseNote": "referenceUrl 页面在按指令重试后仍无法抓取主成品图；按最终执行指令保留项目内占位图，不改用其他来源。参考：肉炒干豆腐。",
-    "license": "Project-local placeholder SVG; no external image hotlink"
+    "localFile": "assets/dishes/final-03-smoked-pork-dried-tofu.jpg",
+    "sourceUrl": "https://s1.cdn.jiaonizuocai.com/caipu/201701/1809/181011047949.jpg/NjAweDQwMA",
+    "sourceSite": "Curated exact Stage A visual source",
+    "matchType": "curated_exact_prototype",
+    "matchedQuery": "熏肉香干豆腐",
+    "reuseNote": "腊/熏肉片 + 豆干/香干 + 青红椒，视觉构成与菜名高度一致；Stage A 家庭体验用。 当前仅用于家庭 Stage A 体验；商业化/公开推广前应替换为自有或明确授权素材。",
+    "license": "Prototype-only unless source license explicitly permits reuse",
+    "sourcePage": "https://www.xiangha.com/caipu/77360105.html"
   },
   {
     "dish": "菠菜炒蛋",
@@ -41,13 +42,14 @@
   },
   {
     "dish": "鸡毛菜鸡蛋汤",
-    "localFile": "assets/dishes/family-dish-placeholder.svg",
-    "sourceUrl": "https://jingyan.baidu.com/article/ed2a5d1f1159f148f7be1711.html",
-    "sourceSite": "Exact recipe visual reference (failed fetch; placeholder)",
-    "matchType": "failed_placeholder",
+    "localFile": "assets/dishes/final-05-green-egg-soup.jpg",
+    "sourceUrl": "https://image.delishkitchen.tv/recipe/308033381931680914/1.jpg",
+    "sourceSite": "Curated exact Stage A visual source",
+    "matchType": "curated_exact_prototype",
     "matchedQuery": "鸡毛菜鸡蛋汤",
-    "reuseNote": "referenceUrl 页面在按指令重试后仍无法抓取主成品图；按最终执行指令保留项目内占位图，不改用其他来源。参考：鸡毛菜鸡蛋汤。",
-    "license": "Project-local placeholder SVG; no external image hotlink"
+    "reuseNote": "小松菜/鸡毛菜类嫩叶菜 + 蛋花清汤，成品视觉直接对应。 当前仅用于家庭 Stage A 体验；商业化/公开推广前应替换为自有或明确授权素材。",
+    "license": "Prototype-only unless source license explicitly permits reuse",
+    "sourcePage": "https://delishkitchen.tv/recipes/308033381931680914"
   },
   {
     "dish": "香菇猪肉小馄饨",
@@ -151,13 +153,14 @@
   },
   {
     "dish": "茭白炒肉片",
-    "localFile": "assets/dishes/family-dish-placeholder.svg",
-    "sourceUrl": "https://home.meishichina.com/recipe-655016.html",
-    "sourceSite": "Exact recipe visual reference (failed fetch; placeholder)",
-    "matchType": "failed_placeholder",
+    "localFile": "assets/dishes/final-16-water-bamboo-pork.jpg",
+    "sourceUrl": "https://imagepphcloud.thepaper.cn/pph/image/178/771/237.jpg",
+    "sourceSite": "Curated exact Stage A visual source",
+    "matchType": "curated_exact_prototype",
     "matchedQuery": "茭白炒肉片",
-    "reuseNote": "referenceUrl 页面在按指令重试后仍无法抓取主成品图；按最终执行指令保留项目内占位图，不改用其他来源。参考：茭白炒肉片。",
-    "license": "Project-local placeholder SVG; no external image hotlink"
+    "reuseNote": "茭白 + 猪肉炒菜，切型略偏丝但主料与做法一致。 当前仅用于家庭 Stage A 体验；商业化/公开推广前应替换为自有或明确授权素材。",
+    "license": "Prototype-only unless source license explicitly permits reuse",
+    "sourcePage": "https://www.thepaper.cn/newsDetail_forward_16641095"
   },
   {
     "dish": "猪肉青菜水饺",
@@ -191,23 +194,25 @@
   },
   {
     "dish": "生菜丝鸡蛋饼",
-    "localFile": "assets/dishes/family-dish-placeholder.svg",
-    "sourceUrl": "https://home.meishichina.com/recipe-629610.html",
-    "sourceSite": "Exact recipe visual reference (failed fetch; placeholder)",
-    "matchType": "failed_placeholder",
-    "matchedQuery": "生菜丝鸡蛋饼 | 生菜鸡蛋饼",
-    "reuseNote": "referenceUrl 页面在按指令重试后仍无法抓取主成品图；按最终执行指令保留项目内占位图，不改用其他来源。参考：生菜鸡蛋饼。",
-    "license": "Project-local placeholder SVG; no external image hotlink"
+    "localFile": "assets/dishes/final-20-lettuce-egg-pancake.jpeg",
+    "sourceUrl": "https://p6.itc.cn/q_70/images03/20221108/2aafa8e78e5444dd9db63e2c633ffed0.jpeg",
+    "sourceSite": "Curated exact Stage A visual source",
+    "matchType": "curated_exact_prototype",
+    "matchedQuery": "生菜丝鸡蛋饼",
+    "reuseNote": "生菜/叶菜丝嵌入鸡蛋饼，成品形态直接对应。 当前仅用于家庭 Stage A 体验；商业化/公开推广前应替换为自有或明确授权素材。",
+    "license": "Prototype-only unless source license explicitly permits reuse",
+    "sourcePage": "https://www.sohu.com/"
   },
   {
     "dish": "农家小炒肉",
-    "localFile": "assets/dishes/family-dish-placeholder.svg",
-    "sourceUrl": "https://www.xiachufang.com/recipe/104118235/",
-    "sourceSite": "Exact recipe visual reference (failed fetch; placeholder)",
-    "matchType": "failed_placeholder",
+    "localFile": "assets/dishes/final-21-farmhouse-pork.jpeg",
+    "sourceUrl": "https://q8.itc.cn/q_70/images01/20240402/68d2ee8a78b3437bbaa2a1f00140bddd.jpeg",
+    "sourceSite": "Curated exact Stage A visual source",
+    "matchType": "curated_exact_prototype",
     "matchedQuery": "农家小炒肉",
-    "reuseNote": "referenceUrl 页面在按指令重试后仍无法抓取主成品图；按最终执行指令保留项目内占位图，不改用其他来源。参考：农家小炒肉。",
-    "license": "Project-local placeholder SVG; no external image hotlink"
+    "reuseNote": "五花/猪肉片 + 青红辣椒快炒，典型农家小炒肉视觉。 当前仅用于家庭 Stage A 体验；商业化/公开推广前应替换为自有或明确授权素材。",
+    "license": "Prototype-only unless source license explicitly permits reuse",
+    "sourcePage": "https://www.sohu.com/"
   },
   {
     "dish": "蘑菇炒肉",
@@ -231,13 +236,14 @@
   },
   {
     "dish": "蛤蜊蒸蛋",
-    "localFile": "assets/dishes/family-dish-placeholder.svg",
-    "sourceUrl": "https://www.xiachufang.com/recipe/263012/",
-    "sourceSite": "Exact recipe visual reference (failed fetch; placeholder)",
-    "matchType": "failed_placeholder",
+    "localFile": "assets/dishes/final-24-clam-steamed-egg.webp",
+    "sourceUrl": "https://jamesdiscover.tw/uploads/2026/03/11/3403ec43f9914655d57d4b5f01bd2a33.webp",
+    "sourceSite": "Curated exact Stage A visual source",
+    "matchType": "curated_exact_prototype",
     "matchedQuery": "蛤蜊蒸蛋",
-    "reuseNote": "referenceUrl 页面在按指令重试后仍无法抓取主成品图；按最终执行指令保留项目内占位图，不改用其他来源。参考：蛤蜊蒸蛋。",
-    "license": "Project-local placeholder SVG; no external image hotlink"
+    "reuseNote": "蛤蜊壳明显嵌在蒸蛋中，视觉精确对应。 当前仅用于家庭 Stage A 体验；商业化/公开推广前应替换为自有或明确授权素材。",
+    "license": "Prototype-only unless source license explicitly permits reuse",
+    "sourcePage": "https://jamesdiscover.tw/"
   },
   {
     "dish": "清蒸小龙虾",
@@ -271,13 +277,14 @@
   },
   {
     "dish": "土豆胡萝卜炒牛肉丁",
-    "localFile": "assets/dishes/family-dish-placeholder.svg",
-    "sourceUrl": "https://home.meishichina.com/recipe-659669.html",
-    "sourceSite": "Exact recipe visual reference (failed fetch; placeholder)",
-    "matchType": "failed_placeholder",
-    "matchedQuery": "土豆胡萝卜炒牛肉丁 | 牛肉炒土豆丁",
-    "reuseNote": "referenceUrl 页面在按指令重试后仍无法抓取主成品图；按最终执行指令保留项目内占位图，不改用其他来源。参考：牛肉炒土豆丁。",
-    "license": "Project-local placeholder SVG; no external image hotlink"
+    "localFile": "assets/dishes/final-28-potato-beef-cubes.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/HK%20KTD%20%E8%A7%80%E5%A1%98%20Kwun%20Tong%20%E9%B1%B7%E9%AD%9A%E6%81%A4%E4%B8%AD%E5%BF%83%20Crocodile%20Center%20shop%20%E7%A8%BB%E9%A6%99%E8%8C%B6%E5%B1%85%20Tao%20Heung%20Tea%20House%20Restaurant%20%E7%82%92%E8%96%AF%E4%BB%94%E7%89%9B%E6%9F%B3%E7%B2%92%20Stir%20fried%20beef%20and%20potato%20cubes%20October%202023%20R12S%2003.jpg",
+    "sourceSite": "Curated exact Stage A visual source",
+    "matchType": "curated_exact_prototype",
+    "matchedQuery": "土豆胡萝卜炒牛肉丁",
+    "reuseNote": "牛肉粒 + 土豆块，另有彩色蔬菜；CC BY-SA 4.0。 当前仅用于家庭 Stage A 体验；商业化/公开推广前应替换为自有或明确授权素材。",
+    "license": "Prototype-only unless source license explicitly permits reuse",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:HK_KTD_%E8%A7%80%E5%A1%98_Kwun_Tong_%E9%B1%B7%E9%AD%9A%E6%81%A4%E4%B8%AD%E5%BF%83_Crocodile_Center_shop_%E7%A8%BB%E9%A6%99%E8%8C%B6%E5%B1%85_Tao_Heung_Tea_House_Restaurant_%E7%82%92%E8%96%AF%E4%BB%94%E7%89%9B%E6%9F%B3%E7%B2%92_Stir_fried_beef_and_potato_cubes_October_2023_R12S_03.jpg"
   },
   {
     "dish": "肉末茄子",
@@ -291,13 +298,14 @@
   },
   {
     "dish": "清炒菠菜",
-    "localFile": "assets/dishes/family-dish-placeholder.svg",
-    "sourceUrl": "https://www.xiachufang.com/recipe/1015324/",
-    "sourceSite": "Exact recipe visual reference (failed fetch; placeholder)",
-    "matchType": "failed_placeholder",
+    "localFile": "assets/dishes/final-30-stirfried-spinach.jpg",
+    "sourceUrl": "https://imgcache.dealmoon.com/fsvrugccache.dealmoon.com/ugc/cff/c0a/1a2/b91ffff04708636f0770858.jpg_1280_1280_3_f829.jpg",
+    "sourceSite": "Curated exact Stage A visual source",
+    "matchType": "curated_exact_prototype",
     "matchedQuery": "清炒菠菜",
-    "reuseNote": "referenceUrl 页面在按指令重试后仍无法抓取主成品图；按最终执行指令保留项目内占位图，不改用其他来源。参考：清炒菠菜。",
-    "license": "Project-local placeholder SVG; no external image hotlink"
+    "reuseNote": "纯菠菜清炒成品，主料与菜型直接对应。 当前仅用于家庭 Stage A 体验；商业化/公开推广前应替换为自有或明确授权素材。",
+    "license": "Prototype-only unless source license explicitly permits reuse",
+    "sourcePage": "https://www.dealmoon.com/"
   },
   {
     "dish": "丝瓜白玉菇鸡蛋三鲜汤",
@@ -311,23 +319,25 @@
   },
   {
     "dish": "杭白菜油豆腐",
-    "localFile": "assets/dishes/family-dish-placeholder.svg",
-    "sourceUrl": "https://www.xiachufang.com/recipe/107082576/",
-    "sourceSite": "Exact recipe visual reference (failed fetch; placeholder)",
-    "matchType": "failed_placeholder",
-    "matchedQuery": "杭白菜油豆腐 | 白菜油豆腐",
-    "reuseNote": "referenceUrl 页面在按指令重试后仍无法抓取主成品图；按最终执行指令保留项目内占位图，不改用其他来源。参考：白菜油豆腐。",
-    "license": "Project-local placeholder SVG; no external image hotlink"
+    "localFile": "assets/dishes/final-32-napa-fried-tofu.jpg",
+    "sourceUrl": "https://image.delishkitchen.tv/recipe/518538826302358657/1.jpg?version=1726153201",
+    "sourceSite": "Curated exact Stage A visual source",
+    "matchType": "curated_exact_prototype",
+    "matchedQuery": "杭白菜油豆腐",
+    "reuseNote": "白菜 + 油豆腐/厚揚构成清楚，视觉直接对应家庭菜型。 当前仅用于家庭 Stage A 体验；商业化/公开推广前应替换为自有或明确授权素材。",
+    "license": "Prototype-only unless source license explicitly permits reuse",
+    "sourcePage": "https://delishkitchen.tv/"
   },
   {
     "dish": "菠菜猪肝汤",
-    "localFile": "assets/dishes/family-dish-placeholder.svg",
-    "sourceUrl": "https://www.xiachufang.com/recipe/255637/",
-    "sourceSite": "Exact recipe visual reference (failed fetch; placeholder)",
-    "matchType": "failed_placeholder",
+    "localFile": "assets/dishes/final-33-spinach-pork-liver.jpg",
+    "sourceUrl": "https://cdn.haohuanjiao.com/venue/AI/thirdparty/e0dfc381-7b9f-4109-9080-e615c31fcbdf.jpg",
+    "sourceSite": "Curated exact Stage A visual source",
+    "matchType": "curated_exact_prototype",
     "matchedQuery": "菠菜猪肝汤",
-    "reuseNote": "referenceUrl 页面在按指令重试后仍无法抓取主成品图；按最终执行指令保留项目内占位图，不改用其他来源。参考：菠菜猪肝汤。",
-    "license": "Project-local placeholder SVG; no external image hotlink"
+    "reuseNote": "菠菜叶 + 猪肝片清汤，视觉精确对应。 当前仅用于家庭 Stage A 体验；商业化/公开推广前应替换为自有或明确授权素材。",
+    "license": "Prototype-only unless source license explicitly permits reuse",
+    "sourcePage": "https://www.sina.com.cn/"
   },
   {
     "dish": "猪肉白菜小饺子",
@@ -341,13 +351,14 @@
   },
   {
     "dish": "莲藕蒸肉饼",
-    "localFile": "assets/dishes/family-dish-placeholder.svg",
-    "sourceUrl": "https://www.xiachufang.com/recipe/106894404/",
-    "sourceSite": "Exact recipe visual reference (failed fetch; placeholder)",
-    "matchType": "failed_placeholder",
+    "localFile": "assets/dishes/final-35-lotus-steamed-meat.jpeg",
+    "sourceUrl": "https://p4.itc.cn/images01/20220705/8f80816c542240e38c464c1c9258518e.jpeg",
+    "sourceSite": "Curated exact Stage A visual source",
+    "matchType": "curated_exact_prototype",
     "matchedQuery": "莲藕蒸肉饼",
-    "reuseNote": "referenceUrl 页面在按指令重试后仍无法抓取主成品图；按最终执行指令保留项目内占位图，不改用其他来源。参考：莲藕蒸肉饼。",
-    "license": "Project-local placeholder SVG; no external image hotlink"
+    "reuseNote": "莲藕片与肉馅组合蒸制，视觉直接对应。 当前仅用于家庭 Stage A 体验；商业化/公开推广前应替换为自有或明确授权素材。",
+    "license": "Prototype-only unless source license explicitly permits reuse",
+    "sourcePage": "https://www.sohu.com/"
   },
   {
     "dish": "虾仁豆腐羹",
